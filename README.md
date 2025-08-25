@@ -1,2 +1,3 @@
-# Contagious-Interview-IoCs
-Automatic Contagious Interview IoCs Collection Repository 
+# Contagious Interview IoCs
+
+This repository automatically collects and lists IoCs from Contagious Interview.
